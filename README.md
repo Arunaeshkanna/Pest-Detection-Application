@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f7547322-1325-467c-b71a-ae96e5fddef4)# Pest-Detection-Application
+
 
 #Libraies:
 Here are brief descriptions of each library:
