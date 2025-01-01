@@ -23,11 +23,15 @@ Here are brief descriptions of each library:
 
 
 #Outputs:
-
+Multiple images detecting:
 ![result](https://github.com/user-attachments/assets/b45575b5-4da8-4641-bf3f-574735138293)
 
+
+using Pill library image preprocessed,bounding box drawn,and detecting the correct image:
 ![image](https://github.com/user-attachments/assets/79504035-fa2f-4ea7-aa91-d5c982376ed9)
 
+
+Integrated Map Feature:
 ![image](https://github.com/user-attachments/assets/c5f141f9-ce81-428b-9064-aa012fff8620)
 
 
